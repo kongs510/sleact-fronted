@@ -75,5 +75,6 @@
     "prettier": "^2.2.1",
     "webpack": "^5.22.0",
     "webpack-dev-server": "^3.11.2"
-  }
+  },
+  "homepage": "."
 }
