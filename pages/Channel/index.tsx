@@ -81,7 +81,7 @@ const Channel = () => {
           if (scrollbarRef.current) {
             if (
               scrollbarRef.current.getScrollHeight() <
-              scrollbarRef.current.getClientHeight() + scrollbarRef.current.getScrollTop() + 150
+              scrollbarRef.current.getScrollHeight() + scrollbarRef.current.getScrollTop() + 150
             ) {
               console.log('scrollToBottom!', scrollbarRef.current?.getValues());
               setTimeout(() => {
