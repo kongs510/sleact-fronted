@@ -12,6 +12,10 @@
 
 # sleact-fronted 구현 기능
 
+
+<img src="https://user-images.githubusercontent.com/68903200/130911381-36dfde15-7989-4f6f-a6c0-113ba2037241.gif"  width="700" height="270">
+<img src="https://user-images.githubusercontent.com/68903200/130911388-fb559b14-99ad-4177-9dbd-a495ad6f56c4.gif"  width="700" height="270">
+
 - 채널(1대 다 채팅) 구현
 <img src="https://user-images.githubusercontent.com/68903200/130878647-1aebdba3-2c58-4151-a957-d04bb35afd87.jpg"  width="500" height="270">
 
