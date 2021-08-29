@@ -13,7 +13,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "webpack": "webpack",
     "start": "webpack serve --open",
-    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install && npm run build"
+    "heroku-postbuild": "npm install && npm run build"
   },
   "author": "ZeroCho",
   "license": "MIT",
